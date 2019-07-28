@@ -1,0 +1,6 @@
+export default {
+  TEXT_SMALL_SIZE: 13,
+  TEXT_MEDIUM_SIZE: 18,
+  TEXT_LARGE_SIZE: 24,
+  TEXT_TITLE: 25
+};
