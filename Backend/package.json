@@ -16,7 +16,7 @@
     "firebase-admin": "^8.3.0",
     "mysql2": "^1.6.5",
     "path": "^0.12.7",
-    "sequelize": "^5.10.1"
+    "sequelize": "^5.15.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.5.0",
