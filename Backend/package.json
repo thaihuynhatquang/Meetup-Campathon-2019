@@ -34,7 +34,7 @@
     "body-parser": "^1.18.3",
     "crypto": "^1.0.1",
     "express": "^4.16.4",
-    "express-fileupload": "^1.1.4",
+    "express-fileupload": "^1.1.9",
     "google-id-token-verifier": "^0.2.3",
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.2.3",
